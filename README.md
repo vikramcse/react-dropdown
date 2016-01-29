@@ -1,10 +1,10 @@
-# Webpack React Starter Kit
+# React Dropdown
+A simple dropdown demo in react.js
 
-## Getting Started
-
-    git clone https://github.com/vikramcse/webpack-react-starter.git
-    cd webpack-react-starter
-    npm install
-    npm start
+#Usage
+git clone https://github.com/vikramcse/react-dropdown.git
+cd react-dropdown
+npm install
+npm start
 
 Then just open http://localhost:8080 in your browser!
