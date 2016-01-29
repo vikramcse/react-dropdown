@@ -1,7 +1,7 @@
 {
-  "name": "webpack-react-starter",
+  "name": "react-dropdown",
   "version": "1.0.0",
-  "description": "A starter template for webpack and react",
+  "description": "A simple dropdown demo in react.js",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --content-base build/",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vikramcse/webpack-react-starter.git"
+    "url": "git+https://github.com/vikramcse/react-dropdown.git"
   },
   "keywords": [
     "webpack",
